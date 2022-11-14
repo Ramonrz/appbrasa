@@ -73,20 +73,26 @@ let listMenu = [
     },
     {
         id: 13,
-        name: "Caldo Ervilha C/ Frango (promo)",
-        price: 12.0,
+        name: "Caldo Ervilha C/ Frango",
+        price: 15.0,
         qtd: 0
     },
     {
         id: 14,
-        name: "Caldo Verde (promo)",
-        price: 12.0,
+        name: "Caldo Verde",
+        price: 15.0,
         qtd: 0
     },
     {
         id: 15,
-        name: "Caldo Vaca Atolada (promo)",
-        price: 12.0,
+        name: "Caldo Vaca Atolada",
+        price: 15.0,
+        qtd: 0
+    },
+    {
+        id: 28,
+        name: "Milho C/ Frango e Bacon",
+        price: 15.0,
         qtd: 0
     },
     {
