@@ -90,39 +90,39 @@ let listMenu = [
         qtd: 0
     },
     {
-        id: 28,
-        name: "Milho C/ Frango e Bacon",
-        price: 15.0,
-        qtd: 0
-    },
-    {
         id: 16,
         name: "Porção Pastéis Carne",
-        price: 26.0,
+        price: 26.99,
         qtd: 0
     },
     {
         id: 17,
         name: "Porção Pastéis Carne/Queijo",
-        price: 26.0,
+        price: 26.99,
         qtd: 0
     },
     {
         id: 18,
-        name: "Porção Coxinha",
-        price: 24.0,
+        name: "Porção Kibe",
+        price: 23.99,
         qtd: 0
     },
     {
         id: 19,
-        name: "Porção Kibe",
-        price: 24.0,
+        name: "Porção Coxinha",
+        price: 23.99,
         qtd: 0
     },
     {
         id: 20,
         name: "Porção Churros",
-        price: 24.0,
+        price: 23.99,
+        qtd: 0
+    },
+    {
+        id: 28,
+        name: "Discos Carne C/ Quejo",
+        price: 26.99,
         qtd: 0
     },
     {
