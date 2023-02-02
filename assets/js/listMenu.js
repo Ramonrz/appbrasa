@@ -85,50 +85,50 @@ let listMenu = [
     },
     {
         id: 15,
-        name: "Caldo Vaca Atolada",
+        name: "Caldo Feijão C/ Moela",
         price: 15.0,
         qtd: 0
     },
     {
         id: 16,
         name: "Porção Pastéis Carne",
-        price: 26.99,
+        price: 27.99,
         qtd: 0
     },
     {
         id: 17,
         name: "Porção Pastéis Carne/Queijo",
-        price: 26.99,
+        price: 27.99,
         qtd: 0
     },
     {
         id: 18,
         name: "Porção Kibe",
-        price: 23.99,
+        price: 25.99,
         qtd: 0
     },
     {
         id: 19,
         name: "Porção Coxinha",
-        price: 23.99,
+        price: 25.99,
         qtd: 0
     },
     {
         id: 20,
         name: "Porção Churros",
-        price: 23.99,
+        price: 25.99,
         qtd: 0
     },
     {
         id: 28,
         name: "Discos Carne C/ Quejo",
-        price: 26.99,
+        price: 27.99,
         qtd: 0
     },
     {
         id: 21,
         name: "Suco Laranja (500ml)",
-        price: 10.50,
+        price: 12.00,
         qtd: 0
     },
     {
@@ -158,7 +158,7 @@ let listMenu = [
     {
         id: 26,
         name: "Feiojoada",
-        price: 22.90,
+        price: 24.90,
         qtd: 0
     },
     {
