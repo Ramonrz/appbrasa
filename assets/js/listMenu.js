@@ -38,7 +38,7 @@ let listMenu = [
     {
         id: 7,
         name: "Coração de Frango",
-        price: 8.0,
+        price: 9.0,
         qtd: 0
     },
     {
