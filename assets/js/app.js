@@ -87,8 +87,8 @@ function validateAlmoco(){
     var hoje = new Date();
     if(hoje.getDay() == 6 && hoje.getHours() <= 15){
         document.getElementById('almoco').style.display = 'block';
-        document.getElementById('espetinhos').style.display = 'none';
-        document.getElementById('guarnicoes').style.display = 'none';
+        //document.getElementById('espetinhos').style.display = 'none';
+        //document.getElementById('guarnicoes').style.display = 'none';
         document.getElementById('caldos').style.display = 'none';
     }
 }
