@@ -163,8 +163,8 @@ let listMenu = [
     },
     {
         id: 27,
-        name: "Filé Molho Madeira",
-        price: 24.90,
+        name: "Picanha Suína",
+        price: 12.00,
         qtd: 0
     }
 ];
