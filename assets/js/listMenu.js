@@ -32,7 +32,7 @@ let listMenu = [
     {
         id: 6,
         name: "Frango Filé de Peito",
-        price: 8.0,
+        price: 9.0,
         qtd: 0
     },
     {
@@ -68,7 +68,7 @@ let listMenu = [
     {
         id: 12,
         name: "Mandioca",
-        price: 7.0,
+        price: 8.0,
         qtd: 0
     },
     {
@@ -92,67 +92,67 @@ let listMenu = [
     {
         id: 16,
         name: "Porção Pastéis Carne",
-        price: 27.99,
+        price: 29.99,
         qtd: 0
     },
     {
         id: 17,
         name: "Porção Pastéis Carne/Queijo",
-        price: 27.99,
+        price: 29.99,
         qtd: 0
     },
     {
         id: 18,
         name: "Porção Kibe",
-        price: 25.99,
+        price: 27.99,
         qtd: 0
     },
     {
         id: 19,
         name: "Porção Coxinha",
-        price: 25.99,
+        price: 27.99,
         qtd: 0
     },
     {
         id: 20,
         name: "Porção Churros",
-        price: 25.99,
+        price: 27.99,
         qtd: 0
     },
     {
         id: 28,
         name: "Discos Carne C/ Quejo",
-        price: 27.99,
+        price: 29.99,
         qtd: 0
     },
     {
         id: 21,
         name: "Suco Laranja (500ml)",
-        price: 12.00,
+        price: 11.00,
         qtd: 0
     },
     {
         id: 22,
         name: "Coca-Cola (600ml)",
-        price: 7.50,
+        price: 8.00,
         qtd: 0
     },
     {
         id: 23,
         name: "Coca-Cola (310ml)",
-        price: 5.0,
+        price: 6.0,
         qtd: 0
     },
     {
         id: 24,
         name: "Coca Cola S/ Açúcar (310ml)",
-        price: 5.0,
+        price: 6.0,
         qtd: 0
     },
     {
         id: 25,
         name: "Guaraná Antarctica (269ml)",
-        price: 5.0,
+        price: 6.0,
         qtd: 0
     },
     {
