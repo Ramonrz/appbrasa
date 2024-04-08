@@ -50,43 +50,43 @@ let listMenu = [
     {
         id: 9,
         name: "Pão C/ Alho",
-        price: 7.0,
+        price: 8.0,
         qtd: 0
     },
     {
         id: 10,
         name: "Jantinha",
-        price: 12.0,
+        price: 13.0,
         qtd: 0
     },
     {
         id: 11,
         name: "Feijão Tropeiro",
-        price: 8.0,
+        price: 9.0,
         qtd: 0
     },
     {
         id: 12,
         name: "Mandioca",
-        price: 8.0,
+        price: 9.0,
         qtd: 0
     },
     {
         id: 13,
         name: "Caldo Ervilha C/ Frango",
-        price: 15.0,
+        price: 16.0,
         qtd: 0
     },
     {
         id: 14,
         name: "Caldo Verde",
-        price: 15.0,
+        price: 16.0,
         qtd: 0
     },
     {
         id: 15,
         name: "Caldo Feijão C/ Moela",
-        price: 15.0,
+        price: 16.0,
         qtd: 0
     },
     {
@@ -123,6 +123,18 @@ let listMenu = [
         id: 28,
         name: "Discos Carne C/ Quejo",
         price: 29.99,
+        qtd: 0
+    },
+    {
+        id: 29,
+        name: "Queijo Coalho",
+        price: 8.00,
+        qtd: 0
+    },
+    {
+        id: 30,
+        name: "Vinagrete",
+        price: 9.00,
         qtd: 0
     },
     {
