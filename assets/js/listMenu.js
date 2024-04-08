@@ -140,7 +140,7 @@ let listMenu = [
     {
         id: 21,
         name: "Suco Laranja (500ml)",
-        price: 11.00,
+        price: 13.00,
         qtd: 0
     },
     {
